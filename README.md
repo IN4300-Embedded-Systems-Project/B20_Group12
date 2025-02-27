@@ -4,6 +4,8 @@ Inventory management is a critical aspect of businesses that deal with stock con
 
 Our project aims to develop an RFID-based inventory management system that addresses these challenges. Using an RC522 RFID module for reading inventory tags and a Raspberry Pi 4 as the processing unit, the system will automatically update inventory records. These records will be securely stored on a cloud platform, ensuring data accessibility and reliability.
 
+[Refer to Original Development](https://github.com/orgs/IoTians-UoM/repositories)
+
 ## 🚀 Features
 - Real-time inventory tracking with instant updates on stock changes
 - Automated stock management using RFID technology
