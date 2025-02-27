@@ -29,13 +29,13 @@ Our project aims to develop an RFID-based inventory management system that addre
 
 ## 📊 System & Diagrams
 ### Block Diagram
-![Block Diagram](https://github.com/IoTians-UoM/Inventory-Management-IoT/blob/main/assets/BlockDiagram.png)
+![Block Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group12/blob/main/assets/BlockDiagram.png)
 
 ### Circuit Diagram
-![Circuit Diagram](https://github.com/IoTians-UoM/Inventory-Management-IoT/blob/main/assets/circuit%20Diagram.jpg)
+![Circuit Diagram](https://github.com/IN4300-Embedded-Systems-Project/B20_Group12/blob/main/assets/circuit%20Diagram.jpg)
 
 ### Prototype
-![Prototype](https://github.com/IoTians-UoM/Inventory-Management-IoT/blob/main/assets/prototype.jpg)
+![Prototype](https://github.com/IN4300-Embedded-Systems-Project/B20_Group12/blob/main/assets/prototype.jpeg)
 
 ## 🔄 Process Flow
 ### Inventory Operations
